@@ -18,4 +18,4 @@ spec:
       - name: gg
         image: 789921810407.dkr.ecr.ap-south-1.amazonaws.com/testing-boot8:2
         ports:
-        - containerPort: 80
+        - containerPort: 8080
